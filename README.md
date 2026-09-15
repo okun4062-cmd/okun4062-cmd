@@ -10,4 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=flowrencyy&label=Profile%20views&color=1f6feb&style=flat-square" alt="views"/>
 
-</div>                                                                                                                                                                                                                                                                                                                                                        
+</div>   
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/879c84f7-c33e-496a-af3f-372c9bf8940f" />
+
