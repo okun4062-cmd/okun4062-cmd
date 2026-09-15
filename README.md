@@ -12,4 +12,6 @@
 
 </div>   
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/879c84f7-c33e-496a-af3f-372c9bf8940f" />
+<img width="1024" height="1024" alt="image" src="https://github.com/okun4062-cmd/gdasdags/blob/main/%D0%90%D0%BB%D0%B8%D1%81%D0%B0.jpeg?raw=true" />
+
 
